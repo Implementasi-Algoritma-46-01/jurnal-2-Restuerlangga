@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Restu Erlangga
 
-NIM : 
+NIM :607062400068
 
 ## Instruksi
 
